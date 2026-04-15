@@ -1,7 +1,9 @@
 1. Contexto e Objetivos
 
-Este repositório foi desenvolvido como um caderno temático sobre Arrematação de Imóveis em Leilão, um mercado que apresentou crescimento expressivo em 2025, com mais de 116 mil ofertas apenas no primeiro semestre
-. O objetivo central é fornecer um guia técnico para investidores e compradores finais, desmistificando medos comuns e detalhando as viabilidades financeira e jurídica necessárias para operações seguras
+Este repositório foi desenvolvido como um caderno temático sobre Arrematação de Imóveis em Leilão, 
+um mercado que apresentou crescimento expressivo em 2025, com mais de 116 mil ofertas apenas no primeiro semestre
+O objetivo central é fornecer um guia técnico para investidores e compradores finais, 
+desmistificando medos comuns e detalhando as viabilidades financeira e jurídica necessárias para operações seguras
 .
 Objetivos de Estudo:
 Diferenciar leilões judiciais de extrajudiciais
@@ -35,8 +37,8 @@ Pergunta Estratégica 2: "Como funciona a alavancagem com financiamento no leil�
 .
 Raciocínio: Entender por que financiar pode ser mais lucrativo que pagar à vista.
 .
-Aprendizado: No financiamento, o retorno sobre o capital (ROI) é maior porque o investidor usa o dinheiro do banco para lucrar sobre o valor total do imóvel, 
-pagando juros apenas até a venda
+Aprendizado: No financiamento, o retorno sobre o capital (ROI) é maior porque o investidor 
+usa o dinheiro do banco para lucrar sobre o valor total do imóvel, pagando juros apenas até a venda
 .
 Troubleshooting (Cicatrizes): Inicialmente, havia confusão sobre a desocupação. 
 As fontes esclareceram que 80% dos casos são resolvidos com acordo amigável, 
@@ -74,7 +76,8 @@ Usufruto: Direito de uso por terceiro. Se vitalício, o arrematante vira dono, m
 ------------------------------------------------------------------------
 Prompts Reutilizáveis para Revisão
 
-"Atue como um analista de investimentos e calcule o ROI líquido de um imóvel arrematado considerando venda em 12 meses pelo valor de mercado"
+"Atue como um analista de investimentos e calcule o ROI líquido de um imóvel 
+arrematado considerando venda em 12 meses pelo valor de mercado"
 .
 "Liste o checklist de documentos necessários para participar de um leilão da Caixa usando financiamento e FGTS."
 .
